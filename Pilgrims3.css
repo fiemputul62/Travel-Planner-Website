@@ -1,0 +1,112 @@
+/*dwarkadish*/
+#dwarkadish{
+    background-color: rgb(240, 211, 149);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#dwar{
+    color:rgb(150, 100, 25);
+}
+#button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 230);
+  }
+  #dwarimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*Nageshwar Jyotirlinga*/
+#nageshwar{
+    background-color: rgb(212, 227, 227);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#nag{
+    color:#40403f;
+}
+#button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 230);
+  }
+  #nagimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*Rukshmani Devi Temple*/
+  #rukshmini{
+    background-color: rgb(235, 146, 140);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#ruk{
+    color:#ca2313;
+}
+#button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 230);
+  }
+  #rukimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+    /*sudama setu*/
+    #sudama{
+        background-color: rgb(144, 228, 217);
+        height: 250px;
+        width: 750px;
+        font-style: italic;
+    }
+    #suda{
+        color:#05685a;
+    }
+    #button{
+        background-color: aliceblue;
+        padding: 5px 3px;
+        cursor:pointer;
+        text-align: center;
+        font-size: 12px;
+        color:none;
+    }
+    #button:hover {
+        background-color: #edeaeb;
+        color: rgb(234, 7, 230);
+      }
+      #sudamaimg{
+        margin-top: -21%;
+        margin-left: 64%;
+        margin-right: 50%;
+      }
+    

@@ -1,0 +1,111 @@
+/*traymkeshwar*/
+#trayambakeshwar{
+    background-color: rgb(188, 240, 149);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#tray{
+    color:rgb(83, 165, 28);
+}
+#button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 230);
+  }
+  #taryimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*traymkeshwar*/
+#venkateswara{
+    background-color: rgb(240, 149, 213);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#venkat{
+    color:rgb(141, 2, 134);
+}
+#button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 230);
+  }
+  #venkatimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*neelkanth*/
+#neelkantmahadev{
+    background-color: rgb(244, 244, 77);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#neelkanth{
+    color:rgb(130, 128, 15);
+}
+#button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 230);
+  }
+  #neelimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+   /*lakshman*/
+#lakshman{
+    background-color: rgb(221, 136, 128);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#laksh{
+    color:rgb(82, 20, 10);
+}
+#button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 230);
+  }
+  #lakshimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }

@@ -1,0 +1,142 @@
+  /*Sundarban*/
+#sundarban{
+    background-color: rgb(139, 139, 228);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#sun{
+    color:rgb(3, 3, 48);
+}
+#button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 7);
+  }
+  #sunimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*Darjeeling*/
+  #darjeeling{
+    background-color: rgb(195, 139, 228);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+  }
+  #dar{
+    color:rgb(44, 6, 43);
+}
+  #button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 7);
+  }
+  #darimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+    /*Bishnupur*/
+  #bishnupur{
+    background-color: rgb(69, 237, 164);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+    
+  }
+  #bishnu{
+    color:rgb(11, 64, 10);
+}
+  #button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 7);
+  }
+  #bishnuimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*Neora vally*/
+  #neoravally{
+    background-color: rgb(20, 231, 231);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+    
+  }
+  #neora{
+    color:rgb(9, 72, 8);
+}
+  #button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 7);
+  }
+  #neoraimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*Santiniketan*/
+  #santiniketan{
+    background-color: rgb(226, 228, 106);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+    
+  }
+  #santi{
+    color:rgb(57, 72, 8);
+}
+  #button{
+    background-color: aliceblue;
+    padding: 5px 3px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+}
+#button:hover {
+    background-color: #edeaeb;
+    color: rgb(234, 7, 7);
+  }
+  #santiimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
